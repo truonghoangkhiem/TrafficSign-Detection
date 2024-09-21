@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4035-MOV_out0004_png.rf.990e1f374e17655a26482a38e0880675.jpg</filename>
+	<path>IMG_4035-MOV_out0004_png.rf.990e1f374e17655a26482a38e0880675.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W.233</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>263</xmin>
+			<xmax>316</xmax>
+			<ymin>302</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+</annotation>

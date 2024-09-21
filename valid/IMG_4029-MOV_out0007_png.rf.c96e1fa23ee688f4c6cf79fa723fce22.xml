@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4029-MOV_out0007_png.rf.c96e1fa23ee688f4c6cf79fa723fce22.jpg</filename>
+	<path>IMG_4029-MOV_out0007_png.rf.c96e1fa23ee688f4c6cf79fa723fce22.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P.123b</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>253</xmin>
+			<xmax>307</xmax>
+			<ymin>309</ymin>
+			<ymax>408</ymax>
+		</bndbox>
+	</object>
+</annotation>

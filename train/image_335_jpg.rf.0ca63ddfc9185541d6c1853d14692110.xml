@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image_335_jpg.rf.0ca63ddfc9185541d6c1853d14692110.jpg</filename>
+	<path>image_335_jpg.rf.0ca63ddfc9185541d6c1853d14692110.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P.130</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>149</xmin>
+			<xmax>203</xmax>
+			<ymin>62</ymin>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

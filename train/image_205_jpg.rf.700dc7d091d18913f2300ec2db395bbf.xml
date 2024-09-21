@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>image_205_jpg.rf.700dc7d091d18913f2300ec2db395bbf.jpg</filename>
+	<path>image_205_jpg.rf.700dc7d091d18913f2300ec2db395bbf.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W.245a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>341</xmin>
+			<xmax>369</xmax>
+			<ymin>95</ymin>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

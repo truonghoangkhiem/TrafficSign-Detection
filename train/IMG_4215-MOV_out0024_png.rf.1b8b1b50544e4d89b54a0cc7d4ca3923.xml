@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4215-MOV_out0024_png.rf.1b8b1b50544e4d89b54a0cc7d4ca3923.jpg</filename>
+	<path>IMG_4215-MOV_out0024_png.rf.1b8b1b50544e4d89b54a0cc7d4ca3923.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W.205a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>285</xmin>
+			<xmax>323</xmax>
+			<ymin>537</ymin>
+			<ymax>600</ymax>
+		</bndbox>
+	</object>
+</annotation>

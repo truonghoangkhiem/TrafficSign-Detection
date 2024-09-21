@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4052-MOV_out0114_png.rf.3d91df0146f9f4f2012b96d024340363.jpg</filename>
+	<path>IMG_4052-MOV_out0114_png.rf.3d91df0146f9f4f2012b96d024340363.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>W.201a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>190</xmin>
+			<xmax>330</xmax>
+			<ymin>163</ymin>
+			<ymax>385</ymax>
+		</bndbox>
+	</object>
+</annotation>

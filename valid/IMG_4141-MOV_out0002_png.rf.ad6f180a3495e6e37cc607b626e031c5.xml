@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4141-MOV_out0002_png.rf.ad6f180a3495e6e37cc607b626e031c5.jpg</filename>
+	<path>IMG_4141-MOV_out0002_png.rf.ad6f180a3495e6e37cc607b626e031c5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R.434</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>291</xmin>
+			<xmax>300</xmax>
+			<ymin>320</ymin>
+			<ymax>335</ymax>
+		</bndbox>
+	</object>
+</annotation>

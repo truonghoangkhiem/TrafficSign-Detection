@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4024-MOV_out0041_png.rf.3bf852dc6e4e02cc008c15486b930423.jpg</filename>
+	<path>IMG_4024-MOV_out0041_png.rf.3bf852dc6e4e02cc008c15486b930423.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R.302a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>302</xmin>
+			<xmax>311</xmax>
+			<ymin>246</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+	</object>
+</annotation>

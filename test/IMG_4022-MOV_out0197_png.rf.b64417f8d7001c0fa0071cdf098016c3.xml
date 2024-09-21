@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4022-MOV_out0197_png.rf.b64417f8d7001c0fa0071cdf098016c3.jpg</filename>
+	<path>IMG_4022-MOV_out0197_png.rf.b64417f8d7001c0fa0071cdf098016c3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

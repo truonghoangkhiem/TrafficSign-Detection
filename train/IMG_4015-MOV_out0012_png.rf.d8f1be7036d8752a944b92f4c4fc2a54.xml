@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4015-MOV_out0012_png.rf.d8f1be7036d8752a944b92f4c4fc2a54.jpg</filename>
+	<path>IMG_4015-MOV_out0012_png.rf.d8f1be7036d8752a944b92f4c4fc2a54.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P.117</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>199</xmin>
+			<xmax>216</xmax>
+			<ymin>438</ymin>
+			<ymax>468</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4117-MOV_out0002_png.rf.96698aa02c0ae1c151f591170dc5c2cd.jpg</filename>
+	<path>IMG_4117-MOV_out0002_png.rf.96698aa02c0ae1c151f591170dc5c2cd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P.131a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>238</xmin>
+			<xmax>277</xmax>
+			<ymin>258</ymin>
+			<ymax>334</ymax>
+		</bndbox>
+	</object>
+</annotation>

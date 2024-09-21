@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_4162-MOV_out0063_png.rf.254a16e9162670e3e1243e7f2763d3dd.jpg</filename>
+	<path>IMG_4162-MOV_out0063_png.rf.254a16e9162670e3e1243e7f2763d3dd.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S.509a</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>304</xmin>
+			<xmax>354</xmax>
+			<ymin>570</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>
